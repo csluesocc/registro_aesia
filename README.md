@@ -4,7 +4,7 @@
 #Registro AESIA 2013
 Este repositorio contiene el código fuente del programa usado para registrar los asistentes al 3er congreso de AESIA.
 
-Estan en la liberad de hacer un fork y hacer las mejoras/cambios que deseen. 
+Estan en la liberad de hacer un fork y hacer las mejoras/cambios/correcciones que deseen. 
 
 
 Lenguajes 
