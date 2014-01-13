@@ -2,7 +2,7 @@
 =================================================================================
 
 #Registro AESIA 2013
-Este repositorio contiene el código fuente del programa usado para registrar los asistentes al 3er congreso de AESIA.
+Este repositorio contiene el código fuente de la aplicación web usada para registrar los asistentes al 3er congreso de AESIA.
 
 Estan en la liberad de hacer un fork y hacer las mejoras/cambios/correcciones que deseen. 
 
@@ -33,7 +33,7 @@ Agradecimientos a
 
 Por su contribución en el proyecto y en la comisión de registro creada para el congreso.
 
-*NOTA: El programa puede tener ciertos errores o inconsistencias ya que se hizo en poco tiempo, el código además puede parecer un tanto ambiguo, todo esto debido a que se hizo experimentando un poco con la extención PDO de PHP para el acceso a datos y tambien con el framework angular.js del lado del cliente.*
+*NOTA: La aplicacón web puede tener ciertos errores o inconsistencias ya que se hizo en poco tiempo, el código además puede parecer un tanto ambiguo, todo esto debido a que se hizo experimentando un poco con la extención PDO de PHP para el acceso a datos y tambien con el framework angular.js del lado del cliente.*
 
 
 
