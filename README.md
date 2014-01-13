@@ -29,7 +29,7 @@ Agradecimientos a
 - Yanci Nerio
 - Maynor Lopez
 - Erick Arevalo
-- Carlos Cárcamo Gonzales
+- Carlos Cárcamo González
 
 Por su contribución en el proyecto y en el congreso.
 
