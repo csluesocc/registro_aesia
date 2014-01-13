@@ -31,7 +31,7 @@ Agradecimientos a
 - Erick Arevalo
 - Carlos Cárcamo González
 
-Por su contribución en el proyecto y en el congreso.
+Por su contribución en el proyecto y en la comisión de registro creada para el congreso.
 
 *NOTA: El programa fue puede tener ciertos errores o inconsistencias, el código además puede parecer un tanto ambiguo, todo esto debido a que se hizo experimentando un poco con la extención PDO de PHP para el acceso a datos y tambien con el framework angular.js del lado del cliente.*
 
