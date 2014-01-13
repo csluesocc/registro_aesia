@@ -10,7 +10,7 @@ Estan en la liberad de hacer un fork y hacer las mejoras/cambios que deseen.
 Lenguajes 
 ---------
 - PHP
-- javascript
+- Javascript
 
 Frameworks y librerias utilizados
 ---------
@@ -33,7 +33,7 @@ Agradecimientos a
 
 Por su contribución en el proyecto y en la comisión de registro creada para el congreso.
 
-*NOTA: El programa fue puede tener ciertos errores o inconsistencias, el código además puede parecer un tanto ambiguo, todo esto debido a que se hizo experimentando un poco con la extención PDO de PHP para el acceso a datos y tambien con el framework angular.js del lado del cliente.*
+*NOTA: El programa puede tener ciertos errores o inconsistencias ya que se hizo en poco tiempo, el código además puede parecer un tanto ambiguo, todo esto debido a que se hizo experimentando un poco con la extención PDO de PHP para el acceso a datos y tambien con el framework angular.js del lado del cliente.*
 
 
 
